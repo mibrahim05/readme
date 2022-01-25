@@ -1,2 +1,2 @@
 # readme
-hello this is first repository 
+iam a student 
