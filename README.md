@@ -1,2 +1,2 @@
 # readme
-hello this is first repo
+hello this is first repository 
